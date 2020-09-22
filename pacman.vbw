@@ -1,0 +1,5 @@
+frmPacMan = 44, 44, 536, 492, Z, 22, 22, 514, 470, C
+CGhosts = 44, 44, 675, 401, 
+modGlobals = 198, 198, 873, 629, 
+CPacMan = 22, 22, 664, 453, 
+CTilesAndFoods = 66, 66, 708, 497, 
